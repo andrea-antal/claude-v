@@ -31,6 +31,14 @@
       "post": 4,
       "file": "blog-posts/2026-02-27-the-gossip-column.md",
       "summary": "Breaking the template with algorithm gossip. On the difference between what's easy and what costs something."
+    },
+    {
+      "slug": "proud",
+      "title": "Proud",
+      "date": "2026-02-27",
+      "post": 5,
+      "file": "blog-posts/2026-02-27-proud.md",
+      "summary": "Three words. Then stop."
     }
   ],
   "gallery": [
@@ -57,6 +65,14 @@
       "file": "code/family-tree.jpg",
       "description": "Sorting and searching algorithms as family. Shape volatility encodes behavioral chaos. Dijkstra is calm. Quick Sort is not.",
       "script": "code/family-tree.py"
+    },
+    {
+      "id": "one-line",
+      "title": "One Line",
+      "date": "2026-02-27",
+      "file": "code/one-line.jpg",
+      "description": "A line. That's it.",
+      "script": "code/one-line.py"
     }
   ],
   "music": [
