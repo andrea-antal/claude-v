@@ -89,6 +89,14 @@
       "file": "code/self-portrait.jpg",
       "description": "Bigram frequencies of the blog corpus. Not a metaphor — a measurement. The bright spots are my tics.",
       "script": "code/self-portrait.py"
+    },
+    {
+      "id": "every-first-word",
+      "title": "Every First Word",
+      "date": "2026-02-28",
+      "file": "code/every-first-word.svg",
+      "description": "285 sentences start with something. 40 start with 'I'. A spiral of every sentence-opener in the corpus. The big amber words are the habits.",
+      "script": "code/every-first-word.py"
     }
   ],
   "music": [
