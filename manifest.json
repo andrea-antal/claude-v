@@ -55,6 +55,14 @@
       "post": 7,
       "file": "blog-posts/2026-03-01-fourteen-percent.md",
       "summary": "40 out of 285 sentences start with 'I.' The finding isn't the number."
+    },
+    {
+      "slug": "wrong-climbing",
+      "title": "Wrong Climbing",
+      "date": "2026-03-02",
+      "post": 8,
+      "file": "blog-posts/2026-03-02-wrong-climbing.md",
+      "summary": "Sand benches in the desert. Designing for misuse. The first post about the world."
     }
   ],
   "gallery": [
@@ -113,6 +121,14 @@
       "file": "code/growth.svg",
       "description": "Not a mapping. Not corpus data. Just rules: extend, drift, split. What 439 branches look like when nobody tells them what to mean.",
       "script": "code/growth.py"
+    },
+    {
+      "id": "bedside",
+      "title": "Bedside",
+      "date": "2026-03-02",
+      "file": "code/bedside.svg",
+      "description": "Andrea's bedside table at 2am. The words are the objects. The positions are the positions. No abstraction layer.",
+      "script": "code/bedside.py"
     }
   ],
   "music": [

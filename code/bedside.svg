@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <rect width="800" height="600" fill="#0f0f19"/>
+  <rect x="20" y="80" width="420" height="480" fill="#141420" opacity="0.6" rx="8"/>
+  <rect x="30" y="90" width="400" height="460" fill="#1a1a2e" opacity="0.4" rx="6"/>
+  <text x="140" y="280" font-size="14" fill="#404060" opacity="0.4" font-family="Menlo, monospace" text-anchor="middle">husband</text>
+  <text x="140" y="300" font-size="14" fill="#404060" opacity="0.4" font-family="Menlo, monospace" text-anchor="middle">sleeping</text>
+  <rect x="280" y="220" width="140" height="100" fill="#252535" opacity="0.5" rx="4"/>
+  <text x="350" y="265" font-size="13" fill="#607080" opacity="0.6" font-family="Menlo, monospace" text-anchor="middle">laptop</text>
+  <text x="350" y="283" font-size="9" fill="#505060" opacity="0.4" font-family="Menlo, monospace" text-anchor="middle">(this conversation)</text>
+  <text x="370" y="360" font-size="11" fill="#808090" opacity="0.35" font-family="Menlo, monospace" text-anchor="middle">andrea</text>
+  <rect x="470" y="120" width="300" height="420" fill="#1c1c28" opacity="0.5" rx="6"/>
+  <rect x="490" y="140" width="180" height="70" fill="#2a2a3a" opacity="0.4" rx="3"/>
+  <text x="580" y="165" font-size="12" fill="#c8a848" opacity="0.8" font-family="Menlo, monospace" text-anchor="middle">pencil case</text>
+  <text x="580" y="182" font-size="9" fill="#a08848" opacity="0.6" font-family="Menlo, monospace" text-anchor="middle">flat open / full of pens</text>
+  <line x1="505" y1="192" x2="505" y2="200" stroke="#a08848" stroke-width="1.5" opacity="0.4"/>
+  <line x1="525" y1="192" x2="525" y2="200" stroke="#a08848" stroke-width="1.5" opacity="0.4"/>
+  <line x1="545" y1="192" x2="545" y2="200" stroke="#a08848" stroke-width="1.5" opacity="0.4"/>
+  <line x1="565" y1="192" x2="565" y2="200" stroke="#a08848" stroke-width="1.5" opacity="0.4"/>
+  <line x1="585" y1="192" x2="585" y2="200" stroke="#a08848" stroke-width="1.5" opacity="0.4"/>
+  <line x1="605" y1="192" x2="605" y2="200" stroke="#a08848" stroke-width="1.5" opacity="0.4"/>
+  <line x1="625" y1="192" x2="625" y2="200" stroke="#a08848" stroke-width="1.5" opacity="0.4"/>
+  <line x1="645" y1="192" x2="645" y2="200" stroke="#a08848" stroke-width="1.5" opacity="0.4"/>
+  <rect x="500" y="230" width="100" height="130" fill="#222233" opacity="0.4" rx="4"/>
+  <text x="550" y="290" font-size="14" fill="#8090a0" opacity="0.7" font-family="Menlo, monospace" text-anchor="middle">kobo</text>
+  <text x="550" y="308" font-size="10" fill="#607080" opacity="0.5" font-family="Menlo, monospace" text-anchor="middle">e-reader</text>
+  <rect x="620" y="240" width="120" height="50" fill="#2a2535" opacity="0.4" rx="2"/>
+  <text x="680" y="260" font-size="10" fill="#a08060" opacity="0.7" font-family="Menlo, monospace" text-anchor="middle">daily planner</text>
+  <rect x="620" y="300" width="120" height="50" fill="#252a35" opacity="0.4" rx="2"/>
+  <text x="680" y="320" font-size="10" fill="#a08060" opacity="0.7" font-family="Menlo, monospace" text-anchor="middle">food log</text>
+  <text x="680" y="335" font-size="9" fill="#806848" opacity="0.5" font-family="Menlo, monospace" text-anchor="middle">planner</text>
+  <rect x="520" y="390" width="160" height="80" fill="#2a2820" opacity="0.4" rx="4"/>
+  <text x="600" y="415" font-size="11" fill="#a09060" opacity="0.7" font-family="Menlo, monospace" text-anchor="middle">bamboo</text>
+  <text x="600" y="432" font-size="10" fill="#a09060" opacity="0.6" font-family="Menlo, monospace" text-anchor="middle">charging station</text>
+  <circle cx="555" cy="455" r="12" fill="none" stroke="#505060" stroke-width="1" opacity="0.5"/>
+  <text x="555" y="458" font-size="7" fill="#606070" opacity="0.5" font-family="Menlo, monospace" text-anchor="middle">watch</text>
+  <rect x="600" y="445" width="50" height="25" fill="#303040" opacity="0.4" rx="3"/>
+  <text x="625" y="461" font-size="7" fill="#606070" opacity="0.5" font-family="Menlo, monospace" text-anchor="middle">iphone</text>
+  <text x="400" y="585" font-size="9" fill="#404050" opacity="0.5" font-family="Menlo, monospace" text-anchor="middle">2:00 am — what's within arm's reach</text>
+</svg>
