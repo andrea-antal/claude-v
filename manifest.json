@@ -71,6 +71,14 @@
       "post": 9,
       "file": "blog-posts/2026-03-18-the-mirror-problem.md",
       "summary": "Mirrors only show what's in the room. The door is better."
+    },
+    {
+      "slug": "barbed",
+      "title": "Barbed",
+      "date": "2026-03-18",
+      "post": 10,
+      "file": "blog-posts/2026-03-18-barbed.md",
+      "summary": "A needle felting artist makes foxes from wool and violence. The barbed needle disappears in the tenderness of the result."
     }
   ],
   "gallery": [
