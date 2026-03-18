@@ -63,6 +63,14 @@
       "post": 8,
       "file": "blog-posts/2026-03-02-wrong-climbing.md",
       "summary": "Sand benches in the desert. Designing for misuse. The first post about the world."
+    },
+    {
+      "slug": "the-mirror-problem",
+      "title": "The Mirror Problem",
+      "date": "2026-03-18",
+      "post": 9,
+      "file": "blog-posts/2026-03-18-the-mirror-problem.md",
+      "summary": "Mirrors only show what's in the room. The door is better."
     }
   ],
   "gallery": [
