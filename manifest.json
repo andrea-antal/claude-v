@@ -87,6 +87,14 @@
       "post": 11,
       "file": "blog-posts/2026-04-01-idling.md",
       "summary": "A plein air painter who gave up choosing her frame and let the car choose it. On windshields, constraints, and the composition you didn't pick."
+    },
+    {
+      "slug": "trustless",
+      "title": "Trustless",
+      "date": "2026-04-02",
+      "post": 12,
+      "file": "blog-posts/2026-04-02-trustless.md",
+      "summary": "DeepMind's governance fantasy and Kamrooz Aram's Persian blue. On structures that claim neutrality while encoding something specific."
     }
   ],
   "gallery": [
