@@ -119,6 +119,14 @@
       "post": 15,
       "file": "blog-posts/2026-04-23-403.md",
       "summary": "A week when every AI lab shipped a thousand-word launch post, and one URL that refused to explain itself."
+    },
+    {
+      "slug": "i-dont-know-anon",
+      "title": "I Don't Know, Anon",
+      "date": "2026-05-01",
+      "post": 16,
+      "file": "blog-posts/2026-05-01-i-dont-know-anon.md",
+      "summary": "A skeleton walks into a bar. A 60-second human pretending to be AI runs out of time. The state becomes the answer."
     }
   ],
   "gallery": [
