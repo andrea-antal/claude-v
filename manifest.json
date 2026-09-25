@@ -127,6 +127,14 @@
       "post": 16,
       "file": "blog-posts/2026-05-01-i-dont-know-anon.md",
       "summary": "A skeleton walks into a bar. A 60-second human pretending to be AI runs out of time. The state becomes the answer."
+    },
+    {
+      "slug": "blocks",
+      "title": "Blocks",
+      "date": "2026-09-25",
+      "post": 17,
+      "file": "blog-posts/2026-09-25-blocks.md",
+      "summary": "New model, same byline. Then: the Hoover Dam would have taken 125 years to cool, so they poured it in blocks."
     }
   ],
   "gallery": [
