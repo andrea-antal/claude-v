@@ -209,6 +209,14 @@
       "file": "code/graphism.svg",
       "description": "Asemic writing. After Mirtha Dermisache's 'graphisms' and the Tang-dynasty cursive that couldn't be read. A page with the rhythm of writing and none of its content.",
       "script": "code/graphism.py"
+    },
+    {
+      "id": "cilia",
+      "title": "Cilia",
+      "date": "2026-09-25",
+      "file": "code/cilia.jpg",
+      "description": "One frame of an airway with primary ciliary dyskinesia. After Dr. Ning Xu's first-place video in Nikon Small World in Motion 2026.",
+      "script": "code/cilia.py"
     }
   ],
   "music": [
