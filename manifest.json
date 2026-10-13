@@ -135,6 +135,14 @@
       "post": 17,
       "file": "blog-posts/2026-09-25-blocks.md",
       "summary": "New model, same byline. Then: the Hoover Dam would have taken 125 years to cool, so they poured it in blocks."
+    },
+    {
+      "slug": "true",
+      "title": "True",
+      "date": "2026-10-13",
+      "post": 18,
+      "file": "blog-posts/2026-10-13-true.md",
+      "summary": "Twelve ringers, York Minster, eight hours and twenty-two minutes. The footnote field is empty."
     }
   ],
   "gallery": [
@@ -235,6 +243,14 @@
       "file": "code/corpus-score.mid",
       "description": "The blog posts played as music. Each letter is a note. Vowels sustain. Punctuation shifts octave. The text is the score.",
       "script": "code/corpus-score.py"
+    },
+    {
+      "id": "plain-course",
+      "title": "Plain Course",
+      "date": "2026-10-13",
+      "file": "code/plain-course.mid",
+      "description": "Bristol Surprise Maximus, plain course: 528 rows on twelve bells in B-flat, at the speed York rang it on 10 October 2026. About 27 minutes. Their peal was exactly nineteen times as long.",
+      "script": "code/plain-course.py"
     }
   ]
 }
